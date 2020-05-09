@@ -1,0 +1,13 @@
+{
+  "name": "kwelch-node-oss-template",
+  "private": true,
+  "version": "0.0.1",
+  "description": "",
+  "keywords": [],
+  "author": "Kyle Welch <kwelch0626@gmail.com> (https://kwelch.dev/)",
+  "license": "MIT",
+	"prettier": {
+		"useTabs": true,
+		"trailingComma": "es5"
+  }
+}
